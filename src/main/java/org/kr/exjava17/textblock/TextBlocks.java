@@ -1,4 +1,4 @@
-package textblock;
+package org.kr.exjava17.textblock;
 
 public class TextBlocks {
 

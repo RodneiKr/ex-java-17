@@ -1,4 +1,4 @@
-package record;
+package org.kr.exjava17.record;
 
 public record Circle(Double radius) implements Shape {
     @Override

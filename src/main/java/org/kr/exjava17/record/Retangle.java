@@ -1,4 +1,4 @@
-package record;
+package org.kr.exjava17.record;
 
 public record Retangle(Double sideA, Double sideB) implements Shape {
     @Override

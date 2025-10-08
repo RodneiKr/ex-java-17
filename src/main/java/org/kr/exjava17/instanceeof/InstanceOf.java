@@ -1,4 +1,4 @@
-package instanceeof;
+package org.kr.exjava17.instanceeof;
 
 public class InstanceOf {
 
